@@ -1,0 +1,5 @@
+# flask-with-harry
+
+from app import db
+
+db.create_all()
